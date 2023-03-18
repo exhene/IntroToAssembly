@@ -1,4 +1,4 @@
-# 30DaysOfAssembly
+# IntroToAssembly
 
 Assembly language, also known as assembly or assembler, is a low-level programming language that is used to write instructions that can be directly executed by a computer's CPU (Central Processing Unit).
 
